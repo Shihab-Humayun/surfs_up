@@ -16,5 +16,10 @@ The purpose of this analysis is to provide W. Avy more information about tempera
 
 
 
+![juneprecip](https://user-images.githubusercontent.com/49353083/115117920-e5780880-9f6e-11eb-838c-e95058eeeef7.png)
+![decemberprecip](https://user-images.githubusercontent.com/49353083/115117924-e872f900-9f6e-11eb-858a-c326517a09e6.png)
+
+
+
 There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December.
 Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
